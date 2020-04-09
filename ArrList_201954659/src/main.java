@@ -12,7 +12,7 @@ public class main {
 		s.delete(0); s.print(); s.delete(3); s.print();
 		s.delete(0); s.print();
 		
-		System.out.println("1¹øÂ° Ç×¸ñÀº " + s.peek(1) + "ÀÌ´Ù.");
+		System.out.println("1ë²ˆì§¸ í•­ëª©ì€ " + s.peek(1) + "ì´ë‹¤.");
 		System.out.println();
 		
 		ArrList<Integer> t = new ArrList<Integer>();
